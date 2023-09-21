@@ -1,0 +1,1 @@
+Added myfile5. Remove it to prove that in the new repo, history will be modified to be lighter.

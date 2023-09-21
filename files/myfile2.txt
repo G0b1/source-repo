@@ -1,1 +1,1 @@
-This is my second file. Refactored.
+This is my second file. Refactored. This message will be in the new repo ^_^
